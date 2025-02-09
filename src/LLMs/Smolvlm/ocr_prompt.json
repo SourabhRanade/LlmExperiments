@@ -1,0 +1,12 @@
+{
+  "role": "user",
+  "content": [
+    {
+      "type": "image"
+    },
+    {
+      "type": "text",
+      "text": "Can you describe this image?"
+    }
+  ]
+}
